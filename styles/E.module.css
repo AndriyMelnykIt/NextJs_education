@@ -1,0 +1,9 @@
+.errorCenter {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #222;
+    color: #fff;
+    font-size: 50px;
+}
